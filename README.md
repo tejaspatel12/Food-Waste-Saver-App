@@ -1,4 +1,4 @@
-# food
+# Food-Waste-Saver-App
 
 A new Flutter project.
 
